@@ -1,5 +1,7 @@
-# Welcome to GitHub Desktop!
+Credit Card Transaction and Customer Dashboard using Power BI:
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Developed an interactive dashboard using transaction and customer data from a SQL database, to provide real-time insights.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Streamlined data processing & analysis to monitor key performance metrics and trends.
+
+Shared actionable insights with stakeholders based on dashboard findings to support decision-making processes.
