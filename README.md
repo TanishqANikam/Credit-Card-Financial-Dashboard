@@ -1,6 +1,6 @@
 Credit Card Transaction and Customer Dashboard using Power BI:
 
-Developed an interactive dashboard using transaction and customer data from a SQL database, to provide real-time insights.
+Developed an interactive dashboard using transaction and customer data from a Excel, to provide real-time insights.
 
 Streamlined data processing & analysis to monitor key performance metrics and trends.
 
