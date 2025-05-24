@@ -1,4 +1,4 @@
-Credit Card Transaction and Customer Dashboard using Power BI
+Credit Card Transaction and Customer Dashboard using Power BI:
 
 Developed an interactive dashboard using transaction and customer data from a SQL database to provide real-time insights.
 
